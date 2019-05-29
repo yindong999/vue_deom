@@ -1,6 +1,7 @@
 <template>
   <div>
       我是国内新闻页面
+      hahahh 
   </div>
 </template>
 <script>
