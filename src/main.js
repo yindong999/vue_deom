@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import router from './router'
+import router from './router'  // 默认引入 ./router/index.js
 import store from './store'
 
 Vue.config.productionTip = false
